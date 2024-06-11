@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810995389532",
+    "project_id": "tenbyte-92bda",
+    "storage_bucket": "tenbyte-92bda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810995389532:android:91e9b6ee03bea14df80299",
+        "android_client_info": {
+          "package_name": "com.example.tenbytes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp8S3Zqmb93UUOiz-yoEKSLACdtUjNvpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
